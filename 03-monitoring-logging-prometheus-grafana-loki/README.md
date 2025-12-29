@@ -1,4 +1,4 @@
-# Monitoring & Logging Stack: Prometheus + Grafana + Loki (Interview-Strong)
+# Monitoring & Logging Stack: Prometheus + Grafana + Loki
 
 This repo provides a production-style **observability** lab using Docker Compose:
 - **Prometheus** for metrics
