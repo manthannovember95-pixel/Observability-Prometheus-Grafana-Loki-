@@ -16,7 +16,7 @@ Then open:
 - Grafana: http://localhost:3000  (default login: admin / admin)
 - Prometheus: http://localhost:9090
 
-## What to show in interviews
+## What to show
 - Prometheus scrape configs + service discovery basics
 - Dashboarding in Grafana
 - Alert rules (example included)
